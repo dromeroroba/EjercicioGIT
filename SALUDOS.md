@@ -1,4 +1,4 @@
-Hola aqui vamos a ir poniendo nuestros nombres segun vayamos accediendo a este fichero:
+    Hola aqui vamos a ir poniendo nuestros nombres segun vayamos accediendo a este fichero:
 1. Soy Clara Molinos
 2. 
 3. Hola, soy Abel Saz :)
@@ -21,7 +21,7 @@ Hola aqui vamos a ir poniendo nuestros nombres segun vayamos accediendo a este f
 13. Soy Alex
 14. 
 15. 
-16. 
+16. Soy Eirene Boatemaa Reynolds
 17. 
 18. Alejandro Molina
 17. Soy Clint Orozco
